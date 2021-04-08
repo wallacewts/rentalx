@@ -46,8 +46,8 @@ An NodeJS API to handle cars rentals
 #### Account ####
 :white_check_mark: Create an user;\
 :white_check_mark: Authenticate an user using JWT;\
-:white_check_mark: Upload an user's avatar file;
-:white_square_button: Refresh user token;
+:white_check_mark: Upload an user's avatar file;\
+:white_square_button: Refresh user token;\
 :white_square_button: Send emails;
 
 ## :rocket: Technologies ##
