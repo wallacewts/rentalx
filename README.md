@@ -38,13 +38,18 @@ An NodeJS API to handle cars rentals
 ## :sparkles: Features ##
 
 #### Car ####
-:white_check_mark: Create a car specification;\
-:white_check_mark: Create a car category;\
+:white_check_mark: Register a car specification (only administrators);\
+:white_square_button: List all specifications;\
+:white_check_mark: Register a car category;\
+:white_check_mark: List all categories;\
 :white_check_mark: Upload a CSV file with car categories;\
-:white_check_mark: List all categories;
+:white_square_button: Register a car (only administrators);\
+:white_square_button: List all available cars (by category, brand and name);\
+:white_square_button: Register multiple car's images (only administrators);\
+:white_square_button: Register a car rental;
 
 #### Account ####
-:white_check_mark: Create an user;\
+:white_check_mark: Register an user;\
 :white_check_mark: Authenticate an user using JWT;\
 :white_check_mark: Upload an user's avatar file;\
 :white_square_button: Refresh user token;\
