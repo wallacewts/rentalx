@@ -5,33 +5,33 @@
 - It must be possible to list all categories.
 
 **RN**
-- It must not be possible to register a car with an existing license plate.
-- It must not be possible to change the license plate of a car already registered.
-- The car must be registered, by default, with availability.
-- The user responsible for the registration must be an administrator.
+- [x] It must not be possible to register a car with an existing license plate.
+<!-- - It must not be possible to change the license plate of a car already registered. -->
+- [x] The car must be registered, by default, with availability.
+- [x] The user responsible for the registration must be an administrator.
 
 # List of cars
 
 **RF**
-- It must be possible to list all available cars.
-- It must be possible to list all available cars by category name.
-- It must be possible to list all available cars by brand.
-- It must be possible to list all available cars by car name.
+- [] It must be possible to list all available cars by category name.
+- [] It must be possible to list all available cars.
+- [] It must be possible to list all available cars by brand.
+- [] It must be possible to list all available cars by car name.
 
 **RN**
-- The user does not need to be logged into the system.
+- [] The user does not need to be logged into the system.
 
 # Car Specification Registration
 
 **RF**
-- It must be possible to register a specification for a car.
-- It must be possible to list all specifications.
-- It must be possible to list all cars.
+- [ ] It must be possible to register a specification for a car.
+- [ ] It must be possible to list all specifications.
+- [ ] It must be possible to list all cars.
 
 **RN**
-- It must not be possible to register a specification for an unregistered car.
-- It must not be possible to register a specification already registered for the same car.
-- The user responsible for the registration must be an administrator.
+- [] It must not be possible to register a specification for an unregistered car.
+- [] It must not be possible to register a specification already registered for the same car.
+- [] The user responsible for the registration must be an administrator.
 
 # Car Images Registration
 
