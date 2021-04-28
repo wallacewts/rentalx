@@ -1,8 +1,8 @@
 # Car registration
 
 **RF**
-- It must be possible to register a new car.
-- It must be possible to list all categories.
+- [x] It must be possible to register a new car.
+- [x] It must be possible to list all categories.
 
 **RN**
 - [x] It must not be possible to register a car with an existing license plate.
@@ -13,13 +13,13 @@
 # List of cars
 
 **RF**
-- [] It must be possible to list all available cars by category name.
-- [] It must be possible to list all available cars.
-- [] It must be possible to list all available cars by brand.
-- [] It must be possible to list all available cars by car name.
+- [x] It must be possible to list all available cars by category name.
+- [x] It must be possible to list all available cars.
+- [x] It must be possible to list all available cars by brand.
+- [x] It must be possible to list all available cars by car name.
 
 **RN**
-- [] The user does not need to be logged into the system.
+- [x] The user does not need to be logged into the system.
 
 # Car Specification Registration
 
