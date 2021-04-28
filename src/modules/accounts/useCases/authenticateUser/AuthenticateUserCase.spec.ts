@@ -33,7 +33,7 @@ describe("Authenticate User", () => {
       password: mockUser.password,
     });
 
-    expect(result).toHaveProperty("tokenn");
+    expect(result).toHaveProperty("token");
   });
 
   it("should not be able to authenticate a nonexistent user", async () => {
