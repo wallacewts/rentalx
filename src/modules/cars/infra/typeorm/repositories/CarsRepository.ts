@@ -66,4 +66,8 @@ export default class CarsRepository implements ICarsRepository {
 
     return cars;
   }
+
+  async findById(id: string): Promise<Car> {
+    return this.repository.findOne(id);
+  }
 }

@@ -25,8 +25,6 @@
 
 **RF**
 - [ ] It must be possible to register a specification for a car.
-- [ ] It must be possible to list all specifications.
-- [ ] It must be possible to list all cars.
 
 **RN**
 - [] It must not be possible to register a specification for an unregistered car.
