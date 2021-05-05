@@ -13,6 +13,7 @@ export default class CarsRepository implements ICarsRepository {
   }
 
   async create({
+    id,
     brand,
     category_id,
     daily_rate,
@@ -22,6 +23,7 @@ export default class CarsRepository implements ICarsRepository {
     name,
   }: ICreateCarDTO): Promise<Car> {
     const car = this.repository.create({
+      id,
       brand,
       category_id,
       daily_rate,
