@@ -24,25 +24,24 @@
 # Car Specification Registration
 
 **RF**
-- [ ] It must be possible to register a specification for a car.
+- [x] It must be possible to register a specification for a car.
 
 **RN**
-- [] It must not be possible to register a specification for an unregistered car.
-- [] It must not be possible to register a specification already registered for the same car.
-- [] The user responsible for the registration must be an administrator.
+- [x] It must not be possible to register a specification for an unregistered car.
+- [x] It must not be possible to register a specification already registered for the same car.
+- [x] The user responsible for the registration must be an administrator.
 
 # Car Images Registration
 
 **RF**
-- It must be possible to register a car's image.
-- It must be possible to list all cars.
+- [x] It must be possible to register a car's image.
 
 **RNF**
-- To use the multer for file uploads.
+- [x] To use the multer for file uploads.
 
 **RN**
-- The user must be possible to register multiple images for the same car.
-- The user responsible for the registration must be an administrator.
+- [x] The user must be possible to register multiple images for the same car.
+- [x] The user responsible for the registration must be an administrator.
 
 # Car Rentals
 
