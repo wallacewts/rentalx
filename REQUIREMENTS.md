@@ -46,10 +46,11 @@
 # Car Rentals
 
 **RF**
-- It must be possible to register a rental.
+- [x] It must be possible to register a rental.
 
 **RN**
 
-- The rental must be have a minimal 24 hours of duration.
-- It must not be possible to register a new rental if already exists another open to the same user.
-- It must not be possible to register a new rental if already exists another open to the same car.
+- [x] The rental must be have a minimal 24 hours of duration.
+- [x] It must not be possible to register a new rental if already exists another open to the same user.
+- [x] It must not be possible to register a new rental if already exists another open to the same car.
+- [x] The user should be authenticated
